@@ -16,7 +16,7 @@
 #   at each step, where m is the min(a, b)
 
 #   Idea:
-#       GCD is a communative property
+#       GCD is a commutative property
 #       For example:
 #           GCD([a,b,c]) =
 #           GCD(GCD([a,b]),[c])
